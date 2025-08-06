@@ -13,7 +13,7 @@
 ## 🚀 Live Demo
 
 You can view it live here:  
-**[Markdown Viewer/](https://malavika-suresh.github.io/Markdown-Viewer/)**
+**[Markdown Viewer site ](https://malavika-suresh.github.io/Markdown-Viewer/)**
 
 ## 📦 Usage
 
